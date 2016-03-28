@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chooser</string>
+    <string name="text">Send Text</string>
+    <string name="image">Send Image</string>
+    <string name="multiple">Send Multiple Data</string>
+</resources>
